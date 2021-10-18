@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="touchme">Tocam</string>
+    <string name="timeText">Temps disponible: %1$d</string>
+</resources>
