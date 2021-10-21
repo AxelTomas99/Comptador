@@ -2,4 +2,7 @@
     <string name="app_name">app</string>
     <string name="touchme">Tocam</string>
     <string name="timeText">Temps disponible: %1$d</string>
+    <string name="endGame">Temps Acabat!</string>
+    <string name="restartGame">La teva puntuació es: %1$d</string>
+
 </resources>
